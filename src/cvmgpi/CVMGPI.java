@@ -16,6 +16,7 @@ public class CVMGPI {
      */
     public static void main(String[] args) {
         // TODO code application logic here    
+        System.out.println("Version 1 Leidy");
         System.out.println("Version 1.0 Master");
         System.out.println("Version 1.1 Master");
     }
